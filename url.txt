@@ -1,0 +1,8 @@
+/subscriptions/b9bc4b81-2c1d-46bb-a1d6-6e0970f05f3c/resourceGroups/pxs-cn-s-ccoe-said-rg/providers/Microsoft.Authorization/policyAssignments/e184eb3a93c34ac5a66d3e3f
+
+
+Fetching RBAC role assignment (definitionId: b24988ac-6180-42a0-ab88-20f7382dd24c) for the managed identity (a639345e-37f0-4165-8050-145933dc10be) of this assignment...
+Creating RBAC role assignment (definitionId:b24988ac-6180-42a0-ab88-20f7382dd24c) for the managed identity (a639345e-37f0-4165-8050-145933dc10be) of this assignment..
+
+
+https://passwordreset.microsoftonline.com/passwordreset#!/
